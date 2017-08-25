@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="empty_view_text">Get started by adding a product</string>
+    <string name="category_overview">Overview</string>
+    <string name="hint_product_name">Name</string>
+    <string name="hint_product_price">Price</string>
+    <string name="editor_activity_title_new_product">Add a product</string>
+    <string name="editor_activity_title_edit_product">Edit a product</string>
+    <string name="hint_product_quantity">Quantity</string>
+    <string name="insert_successful">Product inserted successfully!</string>
+    <string name="insert_faided">Product insert failed</string>
+    <string name="update_successful">Product updated successfully!</string>
+    <string name="update_faided">Product update failed</string>
+    <string name="delete_successful">Product deleted successfully!</string>
+    <string name="delete_faided">Product delete failed</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_dialog_msg">Delete product?</string>
+    <string name="load_image">Load Image</string>
+    <string name="sale">Sale</string>
+    <string name="permission_denied">You have to allow the access to photos in order to edit a product</string>
+    <string name="empty_field">All field must be filled</string>
+    <string name="order">Order More</string>
+    <string name="best_regards">Best regards</string>
+    <string name="order_product">Order product</string>
+</resources>
